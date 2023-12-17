@@ -1,0 +1,10 @@
+/*
+Theme Name: Hello Elementor Child
+Template: hello-elementor
+Author: Ulrik Skovgaard
+Version: 1.0.0
+Description: Stylish child theme based on Hello Elementor
+*/
+
+@import url('../hello-elementor/style.css');
+
